@@ -48,5 +48,6 @@ public class Main {
 
         System.out.printf("TOTAL TAXES: $%.2f", totalTaxes);
 
+        sc.close();
     }
 }
